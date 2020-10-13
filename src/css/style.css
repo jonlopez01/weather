@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* outline: 1px solid red; */
+}
+
+
+.main{
+    /* margin-top: 60px; */
+    width: 100%;
+    margin: 0px auto;
+    background-color: #ffd3b6;
+    min-height: 200px;
+}
+
+form{
+    padding: 30px;
+}
+
+#contentTemp{
+    margin-top: 30px;
+    border: 1px solid #a8e6cf;
+    border-radius: 5px;
+    display: none;
+    padding: 10px;
+    background-color: #dcedc1;
+}
+
+.inputCity{
+    border: 1px solid red !important;
+}
+
+#msjError{
+    color: red;
+    margin-top: -15px;
+    display: none;
+}
+
+
+
+/* Mediaquery */
+/* @media only screen and (max-width: 480px){
+
+}
+
+
+@media (min-width: 481px) and (max-width: 1023px){
+
+}
+
+@media (min-width: 1024px){
+
+} */
